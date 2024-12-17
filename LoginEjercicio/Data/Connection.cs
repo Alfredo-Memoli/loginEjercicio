@@ -13,7 +13,8 @@ namespace LoginEjercicio.Data
     internal class Connection
     {
 
-        public static string server = "127.0.0.1:3308";
+        public static string server = "127.0.0.1";
+        public static string port = "3308";
         public static string dataBase = "login";
         public static string user = "root";
         public static string pwd = "root";
@@ -24,7 +25,8 @@ namespace LoginEjercicio.Data
 
         public static void openConnection()
         {
-            string connectionString = $"server={server};database={dataBase};user={user};password={pwd}";
+            string connectionString = $"server={server};port={port};database={dataBase};user={user};password={pwd}";
+
             connMaster = new MySqlConnection(connectionString) ;    
             connMaster.Open();
             if (connMaster.State == ConnectionState.Open)
