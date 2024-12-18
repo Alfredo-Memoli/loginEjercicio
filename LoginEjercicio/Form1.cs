@@ -15,6 +15,7 @@ namespace LoginEjercicio
         public Form1()
         {
             InitializeComponent();
+            Data.Connection.openConnection();
         }
     }
 }
