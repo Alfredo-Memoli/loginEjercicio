@@ -40,3 +40,5 @@ C:\Users\alfre\source\repos\LoginEjercicio\LoginEjercicio\obj\Debug\LoginEjercic
 C:\Users\alfre\source\repos\LoginEjercicio\LoginEjercicio\obj\Debug\LoginEje.EF333CCB.Up2Date
 C:\Users\alfre\source\repos\LoginEjercicio\LoginEjercicio\obj\Debug\LoginEjercicio.exe
 C:\Users\alfre\source\repos\LoginEjercicio\LoginEjercicio\obj\Debug\LoginEjercicio.pdb
+C:\Users\alfre\source\repos\LoginEjercicio\LoginEjercicio\obj\Debug\LoginEjercicio.Form1.resources
+C:\Users\alfre\source\repos\LoginEjercicio\LoginEjercicio\obj\Debug\LoginEjercicio.Form2.resources
